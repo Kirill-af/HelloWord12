@@ -12,5 +12,6 @@ public class Main {
         javaPhilosophy.setPublicationYear(2024);
 
         System.out.println(javaPhilosophy.getTitle() + " " + javaPhilosophy.getPublicationYear());
+
     }
 }
